@@ -1,0 +1,8 @@
+{
+  "name": "com.nephasto.design-patterns-in-game-development",
+  "version": "1.0.0",
+  "displayName": "Design patterns in game development",
+  "description": "Code of the tutorial series 'Design patterns in video game development'.",
+  "unity": "2020.3",
+  "type": "library"
+}
